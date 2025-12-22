@@ -10,6 +10,7 @@ I'm a junior Data engineer with 10 years of experience in the tech industry. I'm
 - **[Youtube Data Pipeline v2.0](https://github.com/amirfirouzi87/ETL-Pipeline-Airflow-on-K8s-Databricks)** – Extract YT videos metadata and save as JSON in AWS S3, Databricks read JSON, transform and save as Delta table, orchestrated with Apache Airflow deployed on Kubernetes.
 - **[Chess Data Pipeline](https://github.com/amirfirouzi87/Chess.com-ETL-Pipeline)** – Get game data from the Chess.com API, processes it in Databricks, and transforms it with dbt and visualize in Power BI.
 - **[MovieLens Analytics: dbt & Snowflake](https://github.com/amirfirouzi87/MovieLens-Data-Analysis-with-dbt)** – Transform the MovieLens dataset into an analytics-ready schema using dbt (data build tool) and Snowflake and visualize in Power BI.
+- **[E-Shop Data Pipeline: Airflow, Snowflake & dbt Project on Snowflake](https://github.com/amirfirouzi87/MovieLens-Data-Analysis-with-dbt)** – This end-to-end ELT pipeline orchestrates the ingestion of synthetic e-commerce data into Snowflake using Airflow and AWS S3. It leverages dbt project on Snowflake to transform data through a Medallion architecture, featuring incremental loading, SCD Type 2 snapshots, and automated quality testing.
 
 &nbsp;
 ## 🛠️ Technical Skills
