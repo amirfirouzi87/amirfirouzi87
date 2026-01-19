@@ -6,7 +6,7 @@ I'm a junior Data engineer with 10 years of experience in the tech industry. I'm
 
 &nbsp;
 ## 👀 Featured GitHub Repositories
-- **IaC** – **[VM with Insights and Backup](https://github.com/amirfirouzi87/VM-Monitor-Backup)** , **[Hub-Spoke NW](https://github.com/amirfirouzi87/Hub-Spoke)** , **[VM + Storage through Private Endpoint](https://github.com/amirfirouzi87/VM-with-a-Private-EP-to-a-Storage-Acc)** , **[3-Tier Web App](https://github.com/amirfirouzi87/3-Tier-web-App)**
+- **Infrastructure as Code** : **[VM with Insights and Backup](https://github.com/amirfirouzi87/VM-Monitor-Backup)** , **[Hub-Spoke NW](https://github.com/amirfirouzi87/Hub-Spoke)** , **[VM + Storage through Private Endpoint](https://github.com/amirfirouzi87/VM-with-a-Private-EP-to-a-Storage-Acc)** , **[3-Tier Web App](https://github.com/amirfirouzi87/3-Tier-web-App)**
 - **[Youtube Data Pipeline](https://github.com/amirfirouzi87/Airflow-Proj1-YT-Data-Pipeline)** – Extract YT videos metadata, transform and load into PostgreSQL, orchestrated with Apache Airflow
 - **[Youtube Data Pipeline v2.0](https://github.com/amirfirouzi87/ETL-Pipeline-Airflow-on-K8s-Databricks)** – Extract YT videos metadata and save as JSON in AWS S3, Databricks read JSON, transform and save as Delta table, orchestrated with Apache Airflow deployed on Kubernetes.
 - **[Chess Data Pipeline](https://github.com/amirfirouzi87/Chess.com-ETL-Pipeline)** – Get game data from the Chess.com API, processes it in Databricks, and transforms it with dbt and visualize in Power BI.
