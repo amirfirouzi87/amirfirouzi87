@@ -16,7 +16,7 @@ I'm a junior Data engineer with 10 years of experience in the tech industry. I'm
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, Bash
 - **Data Engineering:** PySpark, Azure Databricks, Apache Airflow, dbt
-- **Cloud & DevOps:** AWS, Azure, Docker/K8s, GitHub
+- **Cloud & DevOps:** AWS, Azure, Docker/Kubernetes, Git
 - **Visualization:** Power BI
 
 &nbsp;
