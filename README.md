@@ -27,4 +27,4 @@ I'm a junior Data engineer with 10 years of experience in the tech industry. I'm
 &nbsp;
 ## 🌐 Where to Find Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/amirfiroozi/) - Let's connect!
-- ✍️ [Medium](https://medium.com/@amirfiroozi87) - Writing About my Learnings 
+- ✍️ [Medium](https://medium.com/@amirfirouzi87) - Writing About my Learnings 
